@@ -5,15 +5,14 @@
 
 ## I'm a Junior Frontend Developer!!
 
-- 🌱 I’m currently learning JavaScript
-- 🥅 Next step: React JS
+- 👨‍💻 I’m currently learning JavaScript
+- 🚀 Next step: React JS
 - ⚡ I'm in love with Frontend Development 
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="jonascavalcante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jonascavalcante.dz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonascavalcante)](https://www.linkedin.com/in/jonascavalcante)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonascavalcante.dz)](https://www.instagram.com/jonascavalcante.dz)
 
 <br />
 
