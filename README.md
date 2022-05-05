@@ -23,10 +23,6 @@ I Love code and create new stuff, i like too much to discover new technologies a
 #### Version Control:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-#### Others:
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+#### Stats:
 
-##
-[![jonascavalcante github stats](https://github-readme-stats.vercel.app/api?username=jonascavalcante&show_icons=true&theme=react)](https://github.com/jonascavalcante)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascavalcante&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/jonascavalcante)
+<a href="https://github.com/jonascavalcante" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonascavalcante&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
